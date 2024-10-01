@@ -7,7 +7,7 @@
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=linux,kubernetes,docker,aws,azure,terraform,gitlab,java,javascript&perline=10)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=linux,kubernetes,docker,aws,azure,terraform,gitlab&perline=10)](https://skillicons.dev)<br>
 
 Jovem se formando no curso Analise e Desenvolvimento de Sistemas na Estácio-EAD, atuo como DevOps Engineer e tenho conhecimentos como desenvolvedor fullstack.
 Dedico meu tempo livre a práticar e aperfeiçoar minhas habilidades como DevOps, pesquisar e conhecer tecnologias que estão em alta no mercado para não ficar acomodado apenas naquilo que eu vejo no meu dia a dia.
